@@ -485,7 +485,7 @@ background-size: contain;
 form {
   width: 90%;
   color: #fff;
-  background:top linear-gradient(skyblue,cyan,teal);
+  background:top linear-gradient(#f5f5f5,#17388e);
   display: flex;
   justify-content: center;
   align-items: center;
