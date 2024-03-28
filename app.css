@@ -651,7 +651,7 @@ form h3 {
 
   .left-container-arrow,
   .right-container-arrow {
-    border-right: 15px solid skyblue;
+    border-right: 15px solid black;
     border-left: 0;
     background: left;
     border-left: 0;
